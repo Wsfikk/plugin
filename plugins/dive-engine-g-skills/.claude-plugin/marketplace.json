@@ -1,0 +1,17 @@
+{
+  "name": "dive-engine-g-skills",
+  "owner": {
+    "name": "dive-engine-g team"
+  },
+  "description": "dive-engine-g 仓库内置的 Claude Code skills 集合",
+  "plugins": [
+    {
+      "name": "dive-engine-g-skills",
+      "source": ".",
+      "description": "dive-engine-g 开发/排障/CR 全套 skills",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": ["dive-engine-g", "reward", "calculator", "risk", "code-review"]
+    }
+  ]
+}

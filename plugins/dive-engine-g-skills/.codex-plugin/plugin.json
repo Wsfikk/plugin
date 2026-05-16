@@ -1,0 +1,33 @@
+{
+  "name": "dive-engine-g-skills",
+  "version": "0.1.0",
+  "description": "dive-engine-g 仓库的开发辅助 skills 集合，覆盖开发、扩展点接入、排障、CR 与代码军规。",
+  "author": {
+    "name": "dive-engine-g team"
+  },
+  "keywords": [
+    "dive-engine-g",
+    "reward",
+    "calculator",
+    "risk",
+    "code-review"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "dive-engine-g Skills",
+    "shortDescription": "dive-engine-g 开发、排障、CR 与扩展点接入助手。",
+    "longDescription": "沉淀 dive-engine-g 仓库内高频研发任务的标准步骤，覆盖 calculator、param supplier、reward type、risk hook、任务流排障、代码审查，以及 i18n、CAC、时间和货币相关代码军规。",
+    "developerName": "dive-engine-g team",
+    "category": "Development",
+    "capabilities": [
+      "Skills",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "帮我在 dive-engine-g 新增一个 calculator",
+      "帮我做一次 dive-engine-g 提交前代码审查",
+      "帮我排查 dive-engine-g 任务流异常"
+    ],
+    "brandColor": "#2563EB"
+  }
+}

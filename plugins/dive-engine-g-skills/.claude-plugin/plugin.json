@@ -1,0 +1,14 @@
+{
+  "name": "dive-engine-g-skills",
+  "version": "0.1.0",
+  "description": "dive-engine-g 仓库的开发辅助 skills:新增 calculator / param supplier / reward type / risk hook、代码审查、任务流排障",
+  "author": {
+    "name": "dive-engine-g team"
+  },
+  "keywords": [
+    "dive-engine-g",
+    "reward",
+    "calculator",
+    "skills"
+  ]
+}
