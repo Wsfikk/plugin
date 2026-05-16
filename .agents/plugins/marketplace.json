@@ -1,7 +1,7 @@
 {
   "name": "dive-engine-g",
   "interface": {
-    "displayName": "dive-engine-g Local Plugins"
+    "displayName": "dive-engine-g"
   },
   "plugins": [
     {
