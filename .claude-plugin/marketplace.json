@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "dive-engine-g-skills",
-      "source": ".",
+      "source": "./plugins/dive-engine-g-skills",
       "description": "dive-engine-g 开发/排障/CR 全套 skills",
       "version": "0.1.0",
       "category": "development",
