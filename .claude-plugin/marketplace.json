@@ -1,9 +1,9 @@
 {
-  "name": "dive-engine-g-skills",
+  "name": "didi-engagement",
   "owner": {
-    "name": "dive-engine-g team"
+    "name": "engagement team"
   },
-  "description": "dive-engine-g 仓库内置的 Claude Code skills 集合",
+  "description": "增长留存团队专用插件市场",
   "plugins": [
     {
       "name": "dive-engine-g-skills",

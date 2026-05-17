@@ -1,7 +1,7 @@
 {
   "name": "didi-engagement",
   "interface": {
-    "displayName": "didi-engagement"
+    "displayName": "增长留存团队专用插件市场"
   },
   "plugins": [
     {
