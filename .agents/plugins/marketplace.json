@@ -1,7 +1,7 @@
 {
-  "name": "dive-engine-g",
+  "name": "didi-engagement",
   "interface": {
-    "displayName": "dive-engine-g Local Plugins"
+    "displayName": "didi-engagement"
   },
   "plugins": [
     {
